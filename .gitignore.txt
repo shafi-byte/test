@@ -1,0 +1,3 @@
+changing in my gitignore file
+timespace.txt
+time.txt
